@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "ccoba"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "ccoba",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
